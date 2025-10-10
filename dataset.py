@@ -36,3 +36,7 @@ plt.ylabel("Number of Students")
 plt.show()
 
 plt.scatter(panData)
+plt.title("test")
+plt.xlabel("GPA")
+plt.ylabel("Sleep Amount")
+plt.show()
